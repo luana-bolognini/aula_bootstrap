@@ -8,4 +8,14 @@
 
 .margin {
     padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: cadetblue;
+}
+
+.bg-footer {
+    background-color: rgb(131, 165, 97);
+    color: cornsilk;
 }
